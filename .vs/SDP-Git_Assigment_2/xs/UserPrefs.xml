@@ -1,8 +1,12 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{AB8BB58B-F339-4A2F-A843-49A05EBB2198}|Default">
+<Properties GitUserInfo="UsingGIT" StartupConfiguration="{AB8BB58B-F339-4A2F-A843-49A05EBB2198}|Default">
   <MonoDevelop.Ide.ItemProperties.SDP-Git__Assigment__2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
     <Files>
+<<<<<<< HEAD
       <File FileName="SDP-Git_Assigment_2/Program.cs" Line="17" Column="1" />
+=======
+      <File FileName="SDP-Git_Assigment_2/Program.cs" Line="14" Column="10" />
+>>>>>>> 14b5288806e65397b9e8d9c5eca797a0f4c0013f
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
