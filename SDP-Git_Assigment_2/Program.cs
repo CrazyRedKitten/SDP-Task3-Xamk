@@ -9,6 +9,7 @@ namespace SDP_Git_Assigment_2
             Console.WriteLine("Hello World!");
             Console.WriteLine("The very first change!");
             Console.WriteLine("The second change!");
+            Console.WriteLine("The third change!");
         }
     }
 }
