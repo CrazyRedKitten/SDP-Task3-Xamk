@@ -1,4 +1,4 @@
-using System;
+using static System.Console;
 
 namespace SDP_Git_Assigment_2
 {
@@ -6,15 +6,12 @@ namespace SDP_Git_Assigment_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("The very first change!");
-            Console.WriteLine("The second change!");
-            Console.WriteLine("The third change!");
-<<<<<<< HEAD
-            Console.WriteLine("The fourth change in master!");
-=======
-            Console.WriteLine("The fourth change in branch!");
->>>>>>> 14b5288806e65397b9e8d9c5eca797a0f4c0013f
+            WriteLine("Hello World!");
+            WriteLine("The very first change!");
+            WriteLine("The second change!");
+            WriteLine("The third change!");
+            WriteLine("The fourth change in master!");
+            WriteLine("The fourth change in branch!");
         }
     }
 }
