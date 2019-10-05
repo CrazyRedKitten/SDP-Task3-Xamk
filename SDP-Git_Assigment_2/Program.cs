@@ -12,6 +12,7 @@ namespace SDP_Git_Assigment_2
             WriteLine("The third change!");
             WriteLine("The fourth change in master!");
             WriteLine("The fourth change in branch!");
+            WriteLine("Creating a confilct! Edited from Windwows PC!");
         }
     }
 }
